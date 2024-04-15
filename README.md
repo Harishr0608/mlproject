@@ -6,5 +6,4 @@
 4. Model Evaluation
 5. Model Deployment
 
--- CI/CD Pipeline - Github Actions
--- Deployment - AWS
+
